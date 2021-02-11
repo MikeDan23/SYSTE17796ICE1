@@ -8,7 +8,7 @@ package assignment.pkg1.in.pkgclass.excersize;
 import java.util.Scanner;
 
 /**
- *
+ * February 2021
  * @author mic_d
  */
 public class Assignment1InClassExcersize {
